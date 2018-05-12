@@ -1,0 +1,27 @@
+_repo: Wild-Margaret_44828
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44828-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garvice, Charles
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '3498'
+    url: http://www.gutenberg.org/2009/agents/3498
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Garvice
+description: ''
+gutenberg_issued: '2014-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Wild Margaret
+url: http://www.gutenberg.org/ebooks/44828
